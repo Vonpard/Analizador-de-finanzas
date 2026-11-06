@@ -1,1 +1,9 @@
+# Clave de la API
 .env
+
+# Base de datos con gastos personales
+finanzas.db
+
+# Python
+venv/
+__pycache__/
